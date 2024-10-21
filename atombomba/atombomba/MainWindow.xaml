@@ -1,0 +1,17 @@
+﻿<Window x:Class="atombomba.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:atombomba"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="inditas" HorizontalAlignment="Left" Margin="43,71,0,0" VerticalAlignment="Top" x:Name="start" Click="start_Click" />
+        <Label Content="" HorizontalAlignment="Left" Margin="183,63,0,0" VerticalAlignment="Top" x:Name="indule"/>
+        <Label Content="Hőfok." HorizontalAlignment="Left" Margin="183,163,0,0" VerticalAlignment="Top" x:Name="hofok"/>
+        <Label Content="Energia:" HorizontalAlignment="Left" Margin="183,176,0,0" VerticalAlignment="Top" x:Name="energia"/>
+        <Button Content="Hütöviz be engedés" HorizontalAlignment="Left" Margin="24,113,0,0" VerticalAlignment="Top" Height="26" Width="76" x:Name="hut" Click="hut_Click"/>
+
+    </Grid>
+</Window>
