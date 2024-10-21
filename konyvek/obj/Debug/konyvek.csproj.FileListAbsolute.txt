@@ -1,0 +1,9 @@
+C:\Users\kgabor\Desktop\konyvek\konyvek\bin\Debug\konyvek.exe.config
+C:\Users\kgabor\Desktop\konyvek\konyvek\bin\Debug\konyvek.exe
+C:\Users\kgabor\Desktop\konyvek\konyvek\bin\Debug\konyvek.pdb
+C:\Users\kgabor\Desktop\konyvek\konyvek\obj\Debug\konyvek.csproj.AssemblyReference.cache
+C:\Users\kgabor\Desktop\konyvek\konyvek\obj\Debug\konyvek.csproj.SuggestedBindingRedirects.cache
+C:\Users\kgabor\Desktop\konyvek\konyvek\obj\Debug\konyvek.csproj.CoreCompileInputs.cache
+C:\Users\kgabor\Desktop\konyvek\konyvek\obj\Debug\konyvek.exe
+C:\Users\kgabor\Desktop\konyvek\konyvek\obj\Debug\konyvek.pdb
+C:\Users\kgabor\Desktop\konyvek\konyvek\bin\Debug\konyvek.txt
